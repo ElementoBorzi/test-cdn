@@ -1,0 +1,7 @@
+version=2
+server=TestServer
+location=https://raw.githubusercontent.com/ElementoBorzi/test-cdn/main/patches/
+timestamp=1710861600
+
+# Формат: путь;размер;MD5;приоритет
+wow-update-ruRU-20001.mpq;66204;7695318e2c97541f36b6286fe5417249;1

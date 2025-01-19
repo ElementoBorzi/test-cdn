@@ -1,0 +1,4 @@
+version=2
+server=TestServer
+location=https://raw.githubusercontent.com/ElementoBorzi/test-cdn/main/
+manifest_partial=manifests/wow-18414-base.mfil
