@@ -1,4 +1,4 @@
-version=2
-server=TestServer
-location=https://raw.githubusercontent.com/ElementoBorzi/test-cdn/main/
-manifest_partial=manifests/wow-18414-base.mfil
+version=3
+server=PatchServer
+location=http://wow-patches.mypressonline.com/p
+manifest_partial=Data/ruRU/wow-update-ruRU-20001.MPQ
