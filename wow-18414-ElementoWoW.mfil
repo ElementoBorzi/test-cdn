@@ -1,0 +1,19 @@
+version=3
+serverpath=base
+    path=
+
+file=Data/ruRU/wow-update-ruRU-20001.MPQ
+    name=Data/ruRU/wow-update-ruRU-20001.MPQ
+    size=31712026
+    fileversion=20001
+    flags=4
+    path=base
+    tag=ruRU
+
+file=Data/wow-update-base-20001.MPQ
+    name=Data/wow-update-base-20001.MPQ
+    size=216041149
+    fileversion=20001
+    flags=4
+    path=base
+    tag=base
